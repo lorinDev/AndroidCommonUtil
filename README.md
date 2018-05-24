@@ -1,2 +1,2 @@
 # AndroidCommonUtil
-android的通过工具类，后面持续更新
+android的通用工具类，后面持续更新
